@@ -25,9 +25,7 @@ const App: React.FC = () => {
   }, []);
 
   return (
-    <div className="relative min-h-screen overflow-x-hidden">
-       <div className="fixed inset-0 -z-20 bg-gradient-to-br from-[#0B1D3A] via-[#0F2A52] to-[#050F22]" />
-       
+    <div className="min-h-screen bg-white">
       <Navbar />
       <main>
         <Hero />
