@@ -52,12 +52,14 @@ const Navbar: React.FC = () => {
         </div>
 
         {/* Mobile Toggle */}
-        <button 
-          className="lg:hidden text-gray-700"
-          onClick={() => setIsOpen(!isOpen)}
-        >
-          {isOpen ? <X size={28} /> : <Menu size={28} />}
-        </button>
+       <button 
+  className="lg:hidden text-gray-900 z-[110] relative"
+  onClick={() => setIsOpen(!isOpen)}
+  aria-label="Toggle Menu"
+>
+  {isOpen ? <X size={30} strokeWidth={2.5} /> : <Menu size={30} strokeWidth={2.5} />}
+</button>
+
       </div>
 
       {/* Mobile Menu */}
