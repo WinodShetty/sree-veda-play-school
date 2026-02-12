@@ -42,12 +42,36 @@ export const PROGRAMS: Program[] = [
     image: "/images/nursery.webp"
   },
   {
-    title: "LKG & UKG",
+    title: "LKG",
     age: "3.5 - 5.5 Years",
     description: "Advanced preparation for primary school with focus on reading, writing, and logical skills.",
     color: "bg-brand-blue",
     icon: "📚",
     image: "/images/lkg-ukg.webp"
+  },
+   {
+    title: "UKG",
+    age: "3.5 - 5.5 Years",
+    description: "Advanced preparation for primary school with focus on reading, writing, and logical skills.",
+    color: "bg-brand-yellow",
+    icon: "📚",
+    image: "/images/lkg-ukg.webp"
+  },
+   {
+    title: "Day Care",
+    age: "3.5 - 5.5 Years",
+    description: "Advanced preparation for primary school with focus on reading, writing, and logical skills.",
+    color: "bg-brand-pink",
+    icon: "📚",
+    image: "/images/playgroup.webp"
+  },
+   {
+    title: "Tutions",
+    age: "3.5 - 5.5 Years",
+    description: "Advanced preparation for primary school with focus on reading, writing, and logical skills.",
+    color: "bg-brand-blue",
+    icon: "📚",
+    image: "/images/yoga.webp"
   }
 ];
 

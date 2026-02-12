@@ -40,7 +40,7 @@ const Programs: React.FC = () => {
                   {program.description}
                 </p>
                 <button className={`${program.color} text-white py-3 px-6 rounded-2xl font-bold flex items-center justify-center gap-2 hover:opacity-90 transition-colors`}>
-                  Enquire Now ➔
+                  Sree Veda 
                 </button>
               </div>
             </motion.div>
