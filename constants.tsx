@@ -6,7 +6,7 @@ export const SCHOOL_INFO = {
   address: "H.No: 3, 10-59, 10-9, Gokhale Nagar, Ramanthapur, Hyderabad, Telangana 500013",
   phone: "+91 93477 10324",
   email: "sreevedaschool@gmail.com",
-  whatsapp: "919347710324",
+  whatsapp: "918099869576",
   mapsLink: "https://maps.app.goo.gl/9szbJqsouhUb7ggZ8",
   social: {
     facebook: "#",
