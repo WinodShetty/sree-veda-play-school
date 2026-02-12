@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
             {/* Frame effect */}
             <div className="absolute inset-0 bg-brand-blue rounded-[3rem] rotate-3 transform z-0"></div>
             <img 
-              src="public\images\hero.webp" 
+              src="/images/hero.webp" 
               alt="Sree Veda Play School Playground" 
               className="relative rounded-[3rem] shadow-2xl z-10 -rotate-3 hover:rotate-0 transition-transform duration-700 object-cover aspect-[4/5] md:aspect-square w-full"
             />
