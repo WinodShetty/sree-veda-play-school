@@ -42,7 +42,7 @@ const Hero: React.FC = () => {
           <div className="relative group">
             <div className="absolute inset-0 bg-brand-blue rounded-[3rem] rotate-3 transform z-0 transition-transform group-hover:rotate-0"></div>
             <img 
-              src="public\images\hero.webp" 
+              src="/images/hero.webp" 
               alt="Premium Play School Environment" 
               className="relative rounded-[3rem] shadow-2xl z-10 -rotate-3 group-hover:rotate-0 transition-transform duration-700 object-cover aspect-square w-full"
             />
