@@ -27,8 +27,8 @@ const Navbar: React.FC = () => {
             <span className="text-xl md:text-2xl">🏫</span>
           </div>
           <div className="flex flex-col">
-            <span className="font-heading font-bold text-lg md:text-xl text-brand-pink leading-tight">SREE VEDA</span>
-            <span className="text-[10px] md:text-xs font-semibold text-gray-600 uppercase tracking-widest">Play School & Day Care</span>
+            <span className="font-heading font-bold text-xl md:text-5xl text-brand-pink leading-tight">SREE VEDA</span>
+            <span className="text-[10px] md:text-2xl font-bold text-yellow-600 uppercase tracking-widest">Play School & Day Care</span>
           </div>
         </a>
 
