@@ -1,0 +1,7 @@
+{
+  "name": "SREE VEDA Play School & Day Care",
+  "description": "A premium, modern React website for SREE VEDA Play School, featuring a joyful Indian preschool theme, animated interactions, and full contact details.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
