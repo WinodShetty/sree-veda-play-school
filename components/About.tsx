@@ -15,13 +15,13 @@ const About: React.FC = () => {
             className="lg:w-1/2 grid grid-cols-2 gap-4"
           >
             <img 
-              src="assets\yoga.webp" 
+              src="public\images\yoga.webp" 
               className="rounded-3xl shadow-lg w-full h-full object-cover aspect-square" 
               alt="School Entrance" 
             />
             <div className="flex flex-col gap-4">
               <img 
-                src="assets/ground.webp" 
+                src="public\images\ground.webp" 
                 className="rounded-3xl shadow-lg w-full h-48 object-cover" 
                 alt="Our Caring Staff" 
               />

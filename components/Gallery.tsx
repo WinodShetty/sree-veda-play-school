@@ -4,12 +4,12 @@ import { motion } from 'framer-motion';
 import SectionHeader from './SectionHeader';
 
 const images = [
-  { url: "assets/yoga.webp", title: "Yoga & Meditation" },
-  { url: "assets/dance.webp", title: "Cultural Day Celebration" },
-  { url: "assets/staff.webp", title: "Our Dedicated Team" },
-  { url: "assets/interactive.webp", title: "Interactive Learning" },
-  { url: "assets/classroom.webp", title: "Classroom Fun" },
-  { url: "assets/Hero.webp", title: "Main Entrance" }
+  { url: "/images/yoga.webp", title: "Yoga & Meditation" },
+  { url: "/images/dance.webp", title: "Cultural Day Celebration" },
+  { url: "/images/staff.webp", title: "Our Dedicated Team" },
+  { url: "/images/interactive.webp", title: "Interactive Learning" },
+  { url: "/images/classroom.webp", title: "Classroom Fun" },
+  { url: "/images/hero.webp", title: "Main Entrance" }
 ];
 
 const Gallery: React.FC = () => {

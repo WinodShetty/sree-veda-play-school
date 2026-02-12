@@ -31,7 +31,7 @@ export const PROGRAMS: Program[] = [
     description: "Focus on sensory activities, social interaction, and motor skills through fun and play.",
     color: "bg-brand-yellow",
     icon: "👶",
-    image: "assets/playgroup.webp"
+    image: "/images/playgroup.webp"
   },
   {
     title: "Nursery",
@@ -39,7 +39,7 @@ export const PROGRAMS: Program[] = [
     description: "Introduction to colors, shapes, letters, and numbers with structured yet playful learning.",
     color: "bg-brand-pink",
     icon: "🎨",
-    image: "assets/nursery.webp"
+    image: "/images/nursery.webp"
   },
   {
     title: "LKG & UKG",
@@ -47,7 +47,7 @@ export const PROGRAMS: Program[] = [
     description: "Advanced preparation for primary school with focus on reading, writing, and logical skills.",
     color: "bg-brand-blue",
     icon: "📚",
-    image: "assets/lkg-ukg.webp"
+    image: "/images/lkg-ukg.webp"
   }
 ];
 
@@ -89,19 +89,19 @@ export const TESTIMONIALS: Testimonial[] = [
     name: "Priya Sharma",
     parentOf: "Aryan (Nursery)",
     comment: "The atmosphere is so joyful. My son loves going to school every morning. The teachers are incredibly patient.",
-    avatar: "/assets/priyasharma.webp"
+    avatar: "/images/priyasharma.webp"
   },
   {
     name: "Ramesh Reddy",
     parentOf: "Kavya (UKG)",
     comment: "Excellent balance of academics and values. The slokas and rhymes they teach are helping my daughter connect with her roots.",
-    avatar: "/assets/rameshreddy.webp"
+    avatar: "/images/rameshreddy.webp"
   },
   {
     name: "Sneha Varma",
     parentOf: "Ishaan (Playgroup)",
     comment: "Clean, safe, and colorful. The daycare facility is a lifesaver for working parents like us. Highly recommended!",
-    avatar: "/assets/snehavarma.webp"
+    avatar: "/images/snehavarma.webp"
   }
 ];
 
